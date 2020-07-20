@@ -1,0 +1,11 @@
+########50 characters############################
+Asunto
+########72 characters##################################################
+Problema
+# Problema, Tarea, Motivo del commit
+
+Solución
+# Solución o una lista de cambios
+
+Notas
+# Instrucciones, pasos para pruebas etc
